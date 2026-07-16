@@ -68,11 +68,13 @@ A distributable agent harness: build, publish and run cloud agents end-to-end.
 <tr>
 <td width="50%" valign="top">
 
-**&#9670; TrueNorth**
+<img height="18" src="https://www.google.com/s2/favicons?domain=truenorth.xyz&sz=64" align="top" />&nbsp; **TrueNorth**
 
 Agentic, distributable finance. Building out the agent harness.
 
 `Agents` · `Finance` · `TypeScript`
+
+[**→ truenorth.xyz**](https://truenorth.xyz)
 
 </td>
 <td width="50%" valign="top">
