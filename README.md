@@ -6,7 +6,7 @@
 <!-- ░░░ TYPING TAGLINE ░░░ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=locked+in.;founder+%26+solo+builder+%C2%B7+Singapore;building+distributable+agent+harnesses;shipping+on-chain+since+I+was+a+kid;9+years+writing+code+%C2%B7+11+running+services)](https://github.com/tyhh00)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=locked+in.;founder+%26+solo+builder+%C2%B7+Singapore;building+distributable+agent+harnesses;on-chain+on+Supra+since+2025;9+years+writing+code+%C2%B7+11+running+services)](https://github.com/tyhh00)
 
 <!-- socials -->
 <a href="https://yonghong.dev"><img alt="site" src="https://img.shields.io/badge/yonghong.dev-0D1117?style=for-the-badge&logo=hexo&logoColor=22d3ee" /></a>
@@ -20,9 +20,9 @@
 
 ### &#9673;&nbsp; whoami
 
-Founder & solo builder out of **Singapore**. I've been **running services since I was a kid** and **writing code for ~9 years** — from a Minecraft server, to a game-dev diploma, to an on-chain marketplace, to agent harnesses. I like owning the whole stack and shipping things people actually show up for.
+Founder & solo builder out of **Singapore**. I've been **running services since I was a kid** and **writing code for ~9 years**. The path so far: a Minecraft server, a game-dev diploma, an on-chain NFT marketplace on **Supra** (2025), and now agent harnesses. I like owning the whole stack and shipping things people actually show up for.
 
-> **Now:** building **Kavela** — a distributable agent harness.
+> **Now:** building **Kavela**, a distributable agent harness.
 
 ---
 
@@ -30,11 +30,11 @@ Founder & solo builder out of **Singapore**. I've been **running services since 
 
 |  |  |
 |:--:|:--|
-| **2017** | Grew a **Minecraft server into a ~150-player community** — at 14. First taste of building something people showed up for. `Java` · `Skript` |
-| **2020** | Three years into a **Game Development diploma**, graduated with **Merit**. Shipped a stack of C++/Unity game projects & studio builds. |
-| **2025** | Founded **Crystara** — a **funded** NFT marketplace on **Supra**. Solo-built the marketplace, indexer, read-layer & on-chain Move modules. |
-| **2025** | Joined **TrueNorth** — agentic, distributable finance. Building the agent harness. |
-| **2026** | Building **Kavela** — a distributable agent harness. |
+| **2017** | Grew a **Minecraft server into a ~150-player community**, at 14. First taste of building something people showed up for. `Java` · `Skript` |
+| **2020** | Three years into a **Game Development diploma**, graduated with **Merit**. Shipped a stack of C++/Unity game projects and studio builds. |
+| **2025** | Founded **Crystara**, a **funded** NFT marketplace on **Supra**. Solo-built the marketplace, indexer, read-layer and on-chain Move modules. |
+| **2025** | Joined **TrueNorth**, building the agent harness for agentic, distributable finance. |
+| **2026** | Building **Kavela**, a distributable agent harness. |
 
 ---
 
@@ -44,9 +44,9 @@ Founder & solo builder out of **Singapore**. I've been **running services since 
 <tr>
 <td width="50%" valign="top">
 
-**&#9670; Crystara Markets**
+<img height="18" src="https://icons.duckduckgo.com/ip3/crystara.trade.ico" align="top" />&nbsp; **Crystara Markets**
 
-The premier NFT marketplace on **Supra**. Solo-founded & solo-built — Move smart contracts, on-chain indexer, hyperdrive read-layer and BlindBox mint mechanics.
+The premier NFT marketplace on **Supra**. Solo-founded and solo-built: Move smart contracts, on-chain indexer, hyperdrive read-layer and BlindBox mint mechanics.
 
 `Move` · `TypeScript` · `Supra`
 
@@ -55,9 +55,9 @@ The premier NFT marketplace on **Supra**. Solo-founded & solo-built — Move sma
 </td>
 <td width="50%" valign="top">
 
-**&#9670; Kavela**
+<img height="18" src="https://icons.duckduckgo.com/ip3/kavela.ai.ico" align="top" />&nbsp; **Kavela**
 
-A distributable agent harness — build, publish & run cloud agents end-to-end.
+A distributable agent harness: build, publish and run cloud agents end-to-end.
 
 `TypeScript` · `Cloudflare Workers` · `LLM`
 
@@ -124,15 +124,6 @@ Production-grade Claude Code skills for planning & reviewing engineering + produ
 <img height="170" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tyhh00&hide_border=true&background=0d1117&stroke=161b22&ring=a855f7&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=a9b1d6&currStreakNum=ffffff&sideNums=a9b1d6&dates=8b949e&excludeDaysLabel=8b949e" />
 
 <img width="98%" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tyhh00&bg_color=0d1117&color=22d3ee&line=a855f7&point=ffffff&area=true&hide_border=true" />
-
-<!--
-  STATS + TOP-LANGUAGES CARDS — held pending host choice.
-  The public github-readme-stats instance is flaky (503) AND cannot see private/org commits.
-  Self-host your own instance (counts private work too), then uncomment and point at it:
-
-  <img height="170" alt="stats" src="https://YOUR-INSTANCE.vercel.app/api?username=tyhh00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&title_color=a855f7&icon_color=22d3ee&text_color=a9b1d6&bg_color=0d1117" />
-  <img width="49%" alt="top langs" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=tyhh00&layout=compact&langs_count=8&hide_border=true&title_color=a855f7&text_color=a9b1d6&bg_color=0d1117" />
--->
 
 </div>
 
