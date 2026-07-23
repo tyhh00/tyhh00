@@ -20,7 +20,9 @@
 
 ### &#9673;&nbsp; whoami
 
-Founder & solo builder out of **Singapore**. I've been **running services since I was a kid** and **writing code for ~9 years**. The path so far: a Minecraft server, a game-dev diploma, an on-chain NFT marketplace on **Supra** (2025), and now agent harnesses. I like owning the whole stack and shipping things people actually show up for.
+**Singaporean, 23 years old, from Singapore.** 🇸🇬
+
+Founder & solo builder. I've been **running services since I was a kid** and **writing code for ~9 years**. The path so far: a Minecraft server, a game-dev diploma, an on-chain NFT marketplace on **Supra** (2025), and now agent harnesses. I like owning the whole stack and shipping things people actually show up for.
 
 > **Now:** building **Kavela**, a distributable agent harness.
 
